@@ -9,3 +9,6 @@ WORKING:
 3) When mouse is on the video element it plays either ff or fb according to its position on the video element
 
 4) When mouse moves away, it pauses.
+
+
+I am demonstrating this project only for educational purposes and its usage in any unethical and immoral setting is disallowed by the author.
