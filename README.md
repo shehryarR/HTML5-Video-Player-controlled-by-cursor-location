@@ -8,4 +8,7 @@ WORKING:
 4) When mouse moves away, it pauses.
 
 
+DEMO: https://jsfiddle.net/u8bLvm3r/
+
+
 I am demonstrating this project only for educational purposes and its usage in any unethical and immoral setting is disallowed by the author.
